@@ -1,4 +1,4 @@
-# L6_L7_62 — Attendance Eligibility
+# L6_L7_PES2UG25CS813 — Attendance Eligibility
 
 Lab 6: Code and Branch Coverage
 
